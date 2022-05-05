@@ -1,0 +1,25 @@
+<svg width="282" height="160" viewBox="0 0 282 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="282" height="160" fill="#DBECFF"/>
+<rect width="282" height="160" fill="url(#paint0_radial_4671_436)"/>
+<rect width="282" height="30" fill="#397EE7"/>
+<rect x="21" y="68" width="130" height="8" fill="#397EE7"/>
+<rect x="21" y="88" width="130" height="3" fill="#397EE7"/>
+<rect x="21" y="81" width="130" height="3" fill="#397EE7"/>
+<rect x="21" y="95" width="130" height="3" fill="#397EE7"/>
+<rect x="21" y="102" width="130" height="3" fill="#397EE7"/>
+<rect x="21" y="109" width="130" height="3" fill="#397EE7"/>
+<rect x="21" y="116" width="130" height="3" fill="#397EE7"/>
+<rect x="21" y="123" width="60" height="3" fill="#397EE7"/>
+<path d="M189 78.3333L220 61L251 78.3333V119H189V78.3333Z" fill="#397EE7"/>
+<path d="M184 82.5L220 62.5L256 82" stroke="#184B97" stroke-width="4"/>
+<rect x="234" y="90" width="8" height="17" fill="#DBECFF"/>
+<rect x="201" y="90" width="8" height="17" fill="#DBECFF"/>
+<rect x="213" y="89" width="17" height="30" fill="#184B97"/>
+<rect x="103" y="10" width="81" height="10" fill="#DBECFF"/>
+<defs>
+<radialGradient id="paint0_radial_4671_436" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(245 22.5) rotate(150.698) scale(280.947 495.169)">
+<stop stop-color="#397EE7" stop-opacity="0"/>
+<stop offset="1" stop-color="#DBECFF"/>
+</radialGradient>
+</defs>
+</svg>
